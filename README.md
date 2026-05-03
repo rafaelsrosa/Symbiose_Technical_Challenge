@@ -68,4 +68,4 @@ The mountainous terrain introduces significant noise. Radar shadows on steep slo
 3.  **Multi-temporal Filtering:** Implementing a time-series approach (e.g., CUSUM) to filter out transient changes caused by soil moisture or weather.
 
 ## 7. Time Spent
-Total time: **[INSIRA O TEMPO AQUI, EX: 8 HOURS]**
+Total time: **20 HOURS**
