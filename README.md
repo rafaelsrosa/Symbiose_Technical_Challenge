@@ -1,9 +1,16 @@
 # Symbiose Technical Challenge: SAR-based Forest Disturbance Detection
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rafaelsrosa/Symbiose_Technical_Challenge/blob/main/Symbiose_Technical_Challenge.ipynb)
+
+> **Note:** If GitHub fails to render the notebook preview due to its size or GEE widgets, please click the **Open in Colab** button above or download the file to view it locally.
+
 This repository contains the full codebase and technical report for the forest disturbance detection challenge. The project utilizes Sentinel-1 SAR data and Google Earth Engine to identify clear-cut events in two distinct French regions: Landes and Grand Est.
 
 ## 1. Setup & Instructions to Run
-The entire pipeline is contained within a single Jupyter Notebook.
+The entire pipeline is contained within the `Symbiose_Technical_Challenge.ipynb` notebook.
+
+* **Online Viewing:** If the GitHub preview displays an "Invalid Notebook" error, click the **Open in Colab** badge at the top of this page.
+* **Local Execution:** Download the `.ipynb` file and open it in your preferred environment (Jupyter, VS Code, etc.).
 
 ### Prerequisites
 - A **Google Earth Engine (GEE)** account.
